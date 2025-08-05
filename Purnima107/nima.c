@@ -9,6 +9,7 @@ int main(void) {
   printf("Damn I think I've forgotten C already");
   free(youngling);
   printf("Be free youngling!");
+  printf("Give me a merge conflict good sir"); 
  *youngling = 0;
   return 1;
 }
